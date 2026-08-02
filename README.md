@@ -30,8 +30,9 @@ The framework validates core functionalities including:
 - Playwright
 
 ##Installation
+
 Clone the repository
 
 ```bash
-git clone https://github.com/mridu-tajnuba/SauceDemoAssignment.git
-cd SauceDemoAssignment
+git clone https://github.com/mridu-tajnuba/Playwright-Automation-Framework-SauceDemo.git
+cd Playwright-Automation-Framework-SauceDemo
