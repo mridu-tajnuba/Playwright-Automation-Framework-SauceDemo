@@ -1,6 +1,7 @@
 #SauceDemo Automation Testing Project
 
 ##Overview
+
 This project is an automated testing framework developed using Playwright for testing the SauceDemo e-commerce application.
 
 The framework validates core functionalities including:
@@ -16,6 +17,7 @@ The framework validates core functionalities including:
 - Allure Reports
 
 ##Project Structure
+
 |- tests/
 |- pages/
 |- utils/
