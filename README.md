@@ -16,16 +16,6 @@ The framework validates core functionalities including:
 - JavaScript
 - Allure Reports
 
-##Project Structure
-
-|- tests/
-|- pages/
-|- utils/
-|- allure-results/
-|- allure-reports/
-|- package.json
-|- playwright.config.js
-|- README.md
 
 ##Prerequisites
 - VS Code
